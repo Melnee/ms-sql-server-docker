@@ -5,7 +5,7 @@ Run:
 `sudo docker compose up`
 
 ## To enter container
-`sudo docker exec -it sqlpreviewcon /bin/bash
+`sudo docker exec -it sqlpreviewcon /bin/bash`
 
 ## Command line tools locations
 
